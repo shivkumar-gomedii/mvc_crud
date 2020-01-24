@@ -1,0 +1,11 @@
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\bin\Debug\netcoreapp3.0\Inventory.BusinessLib.deps.json
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\bin\Debug\netcoreapp3.0\Inventory.BusinessLib.dll
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\bin\Debug\netcoreapp3.0\Inventory.BusinessLib.pdb
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\bin\Debug\netcoreapp3.0\Inventory.Datalayer.dll
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\bin\Debug\netcoreapp3.0\Inventory.Datalayer.pdb
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\obj\Debug\netcoreapp3.0\Inventory.BusinessLib.csprojAssemblyReference.cache
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\obj\Debug\netcoreapp3.0\Inventory.BusinessLib.AssemblyInfoInputs.cache
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\obj\Debug\netcoreapp3.0\Inventory.BusinessLib.AssemblyInfo.cs
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\obj\Debug\netcoreapp3.0\Inventory.BusinessLib.csproj.CopyComplete
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\obj\Debug\netcoreapp3.0\Inventory.BusinessLib.dll
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.BusinessLib\obj\Debug\netcoreapp3.0\Inventory.BusinessLib.pdb

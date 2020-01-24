@@ -1,0 +1,8 @@
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp3.0\Inventory.MVC.csprojAssemblyReference.cache
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp3.0\Inventory.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp3.0\Inventory.MVC.AssemblyInfoInputs.cache
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp3.0\Inventory.MVC.AssemblyInfo.cs
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp3.0\Inventory.MVC.TagHelpers.input.cache
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp3.0\Inventory.MVC.TagHelpers.output.cache
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp3.0\Inventory.MVC.dll
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp3.0\Inventory.MVC.pdb

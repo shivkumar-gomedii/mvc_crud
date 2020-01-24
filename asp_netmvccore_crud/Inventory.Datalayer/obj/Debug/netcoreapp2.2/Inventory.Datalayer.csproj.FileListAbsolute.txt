@@ -1,0 +1,10 @@
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\bin\Debug\netcoreapp2.2\Inventory.Datalayer.deps.json
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\bin\Debug\netcoreapp2.2\Inventory.Datalayer.runtimeconfig.json
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\bin\Debug\netcoreapp2.2\Inventory.Datalayer.runtimeconfig.dev.json
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\bin\Debug\netcoreapp2.2\Inventory.Datalayer.dll
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\bin\Debug\netcoreapp2.2\Inventory.Datalayer.pdb
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.AssemblyInfoInputs.cache
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.AssemblyInfo.cs
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.dll
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.pdb
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.csprojAssemblyReference.cache
