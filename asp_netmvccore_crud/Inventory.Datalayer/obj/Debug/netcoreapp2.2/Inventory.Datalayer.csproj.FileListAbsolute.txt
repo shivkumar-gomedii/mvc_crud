@@ -7,4 +7,3 @@ C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\
 C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.AssemblyInfo.cs
 C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.dll
 C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.pdb
-C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.Datalayer\obj\Debug\netcoreapp2.2\Inventory.Datalayer.csprojAssemblyReference.cache

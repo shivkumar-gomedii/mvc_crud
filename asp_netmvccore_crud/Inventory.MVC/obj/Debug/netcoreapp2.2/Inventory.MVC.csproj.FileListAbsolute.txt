@@ -34,3 +34,4 @@ C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcor
 C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp2.2\Inventory.MVC.dll
 C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp2.2\Inventory.MVC.pdb
 C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\GOMEDII\source\repos\asp_netmvccore_crud\Inventory.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.cshtml.g.cs
