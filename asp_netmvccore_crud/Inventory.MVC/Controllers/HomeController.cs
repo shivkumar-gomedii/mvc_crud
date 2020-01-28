@@ -49,10 +49,40 @@ namespace Inventory.MVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(productVM product)
+        public IActionResult Create(productVM product,string btnSubmit)
         {
-            ModelState.Clear();
-            return View(product);
+            List<SelectListItem> Categories = new List<SelectListItem>();
+            Categories.Add(new SelectListItem { Text = "Electronic", Value = "Electronic" });
+            Categories.Add(new SelectListItem() { Text = "Mobile", Value = "Mobile" });
+            Categories.Add(new SelectListItem() { Text = "Men Wear", Value = "Men Wear" });
+            Categories.Add(new SelectListItem() { Text = "Woman Wear", Value = "Woman Wear" });
+            ViewBag.Categories = Categories;
+            Dictionary<string, string> colors = new Dictionary<string, string>();
+            colors.Add("Red", "Red");
+            colors.Add("Green", "Green");
+            colors.Add("Yellow", "Yellow");
+            colors.Add("Grey", "Grey");
+            ViewBag.Colors = colors;
+
+            Dictionary<string, string> Companies = new Dictionary<string, string>();
+            Companies.Add("FlipKart", "FlipKart");
+            Companies.Add("Amazon", "Amazon");
+            Companies.Add("Ebay", "Ebay");
+            Companies.Add("Relience", "Relience");
+            ViewBag.Companies = Companies;
+
+            if (btnSubmit == "Reset")
+            {
+                ModelState.Clear();
+                return View(product);
+            }
+            else
+            {
+                if (!ModelState.IsValid)
+                    return View();
+
+                return View();
+            }
         }
 
         public IActionResult Privacy()
